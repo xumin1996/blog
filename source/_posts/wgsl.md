@@ -6,7 +6,7 @@ tags:
 
 # 指针着色器 
 ## 介绍
-![光环着色器](/wgsl/aura.png)
+![光环着色器](wgsl/aura.png)
 这个着色器只包含片元着色器代码，通过对像素点uv的计算显示指针
 
 | 方法 | 描述 |
@@ -73,7 +73,7 @@ fn fragment(in: VertexOutput) -> @location(0) vec4<f32> {
 # 闪烁线条
 ## 介绍
 在表面形成闪烁变化的网格,grid函数显示宽度为`1.0/GRID_RATIO`的线条
-![](/wgsl/light.png)
+![](wgsl/light.png)
 
 ## 代码
 ```wgsl
@@ -129,7 +129,7 @@ for (let i = 0;i<10;i++) {
 }
 
 ```
-![](/wgsl/points.png)
+![](wgsl/points.png)
 
 ## 代码
 ```wgsl
