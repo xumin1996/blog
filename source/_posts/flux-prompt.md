@@ -1,5 +1,5 @@
 ---
-title: flux-prompt
+title: flux提示词
 date: 2025-01-10 12:59:19
 tags:
 ---
