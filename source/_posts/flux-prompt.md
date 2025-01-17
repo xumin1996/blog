@@ -27,6 +27,32 @@ Anime style, Japanese anime style, or Manga style.group of children,riverside pi
 ```
 ![](flux-prompt/4.jpg)
 
+##
+
+正向提示词
+```
+1 girl, solo, lying on a bed indoors, under the covers with a blanket and a pillow, sleeping peacefully with closed eyes and closed mouth, long brown or black hair, long sleeves, surrounded by plants and leaves, sunlight streaming through the window, an apple and some food nearby, a cat sleeping beside her, a warm and cozy atmosphere, soft and dim light, detailed and intimate background, depth of field, best quality, masterpiece,
+```
+
+负向提示词
+```
+badhandv4,bad hands,extra hands,bad body,bad proportions,extra fingers,fewer fingers,missing fingers,extra digit,fewer digits,ng_deepnegative_v1_75t,hairy,pubic hair,head cut off,Easy Negative,paintings,sketches,(worst quality:2),(low quality:2),(normal quality:2),((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,glans,((watermark:2)),(white letters:1),(multi nipples),text,error,cropped,jpeg artifacts,signature,watermark,username,bad feet,Multiple people,mutation,deformed,long neck,cross-eyed,mutated hands,missing legs,missing limbs,deformed legs,cut off legs,bad anatomy,polar lowres,bad proportions,gross proportions,abdominal stretch,glans,pants,briefs,knickers,kecks,fused fingers,,nsfw
+```
+![](flux-prompt/5.jpg)
+
+## 
+
+正向提示词
+```
+outdoors,cloud,scenery,sky,grass,ground vehicle,no humans,tree,day,motor vehicle,water,lily pad,blue sky,flower,car,reflection,masterpiece,best quality,(masterpiece:1,2),highres,original,perfect lighting,extremely detailed wallpaper,(extremely detailed CG:1.2),
+```
+
+负向提示词
+```
+NSFW,(worst quality:2),(low quality:2),(normal quality:2),lowres,normal quality,((monochrome)),((grayscale)),skin spots,acnes,skin blemishes,age spot,(ugly:1.331),(duplicate:1.331),(morbid:1.21),(mutilated:1.21),(tranny:1.331),mutated hands,(poorly drawn hands:1.5),(bad anatomy:1.21),(bad proportions:1.331),extra limbs,(disfigured:1.331),(missingarms:1.331),(extra legs:1.331),(fused fingers:1.61051),(too many fingers:1.61051),(easynegative:1.2),(unclear eyes:1.331),bad hands,missing fingers,extra digit,(((extraarms and legs))),ng_deepnegative_v1_75t,
+```
+![](flux-prompt/6.jpg)
+
 
 ##
 ```cn
